@@ -1,4 +1,7 @@
+
 # Algorithmic-Trading-Paired-Stocks-Strategy
+
+<img width="1122" alt="Screen Shot 2021-07-15 at 6 53 23 PM" src="https://user-images.githubusercontent.com/79336912/125867799-24d2d180-58c6-4e0b-8dd9-12c8b3bcd4a6.png">
 
 This project aims to create a strategy based on paired stocks and compare them with benchmarks. 
 Pair trading strategy is categorized as statistical arbitrage, and it is when you match a long position with a short position in two pair stocks that have a high positive correlation.
